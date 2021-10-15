@@ -1,0 +1,35 @@
+_repo: A-Journal-of-the-Pilgrims-at-Plymouth-Mourt-s-Relation-A-Relation-or-Journal-of-the-English-P__66359
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Heath, Dwight B.
+    birthdate: 1930
+    gutenberg_agent_id: '53765'
+    url: http://www.gutenberg.org/2009/agents/53765
+    wikipedia: https://en.wikipedia.org/wiki/Dwight_B._Heath
+description: ''
+gutenberg_issued: '2021-09-22'
+identifiers:
+  gutenberg: '66359'
+  lccn: '62017660'
+language: en
+pgterms:marc904: https://archive.org/details/journalofpilgrim00unse/page/n21/mode/2up
+pgterms:marc905: 20210320121946heath
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Steve Mattern, Stephen Hutcheson, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Corinth Books,1963.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Massachusetts -- History -- New Plymouth, 1620-1691'
+- !lcsh 'Pilgrims (New Plymouth Colony) -- Early works to 1800'
+- !lcc 'F001'
+- GITenberg
+title: 'A Journal of the Pilgrims at Plymouth; Mourt''s Relation: A Relation or Journal
+  of the English Plantation settled at Plymouth in New England, by Certain English
+  adventurers both merchants and others'
+url: http://www.gutenberg.org/ebooks/66359
